@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5665
     wikipedia: http://en.wikipedia.org/wiki/Louis-Honor%C3%A9_Fr%C3%A9chette
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15361#F-lix-Poutr-Drame-historique-en-quatre-actes
 gutenberg_bookshelf: FR Théâtre
 gutenberg_issued: '2005-03-14'
 gutenberg_type: Text
